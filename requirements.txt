@@ -4,3 +4,4 @@ torch
 PyPDF2
 nltk
 PyMuPDF
+gTTS
