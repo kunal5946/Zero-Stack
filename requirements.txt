@@ -1,7 +1,7 @@
-streamlit
-transformers
-torch
-PyPDF2
-nltk
-PyMuPDF
-gTTS
+streamlit==1.28.1
+transformers==4.35.2
+torch==2.1.1
+PyMuPDF==1.23.8
+accelerate==0.24.1
+sentencepiece==0.1.99
+protobuf==4.25.1
